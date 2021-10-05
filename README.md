@@ -27,13 +27,14 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile View](assets\FireShot Capture 003 - Frontend Mentor - Order summary card - Mobile View.png)
-![Desktop View](assets\FireShot Capture 001 - Frontend Mentor - Order summary card -Web View.png)
+![Mobile View](https://user-images.githubusercontent.com/65790714/136113738-8e534966-8c6f-4968-8010-a82309eb978d.png)
+![Desktop View](https://user-images.githubusercontent.com/65790714/136113840-ec52217b-0b5e-4d0b-a3d1-0b03fe3dab42.png)
+
 
 ### Links
 
 - Solution URL: [GitHub Repo](https://github.com/Mudi-Igbinoba/Order-Summary-Frontend-Mentor)
-- Live Site URL: [GitHub Pages](https://your-live-site-url.com)
+- Live Site URL: [GitHub Pages](https://mudi-igbinoba.github.io/Order-Summary-Frontend-Mentor/)
 
 ## My process
 
